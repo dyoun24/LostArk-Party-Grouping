@@ -1,0 +1,303 @@
+[
+    {
+      "user_name": "궁수플레이어",
+      "characters": [
+        {
+          "character_name": "화살대가",
+          "character_class": "궁수",
+          "character_level": 1500
+        },
+        {
+          "character_name": "저격수",
+          "character_class": "궁수",
+          "character_level": 1530
+        },
+        {
+          "character_name": "활의전사",
+          "character_class": "궁수",
+          "character_level": 1480
+        },
+        {
+          "character_name": "사격의명수",
+          "character_class": "궁수",
+          "character_level": 1495
+        },
+        {
+          "character_name": "천상의화살",
+          "character_class": "궁수",
+          "character_level": 1500
+        }
+      ]
+    },
+    {
+      "user_name": "마법사플레이어",
+      "characters": [
+        {
+          "character_name": "불의마법사",
+          "character_class": "마법사",
+          "character_level": 1400
+        },
+        {
+          "character_name": "얼음의마법사",
+          "character_class": "마법사",
+          "character_level": 1450
+        },
+        {
+          "character_name": "회오리마법사",
+          "character_class": "마법사",
+          "character_level": 1440
+        },
+        {
+          "character_name": "빛의마법사",
+          "character_class": "마법사",
+          "character_level": 1465
+        },
+        {
+          "character_name": "어둠의마법사",
+          "character_class": "마법사",
+          "character_level": 1425
+        },
+        {
+          "character_name": "천상의마법사",
+          "character_class": "마법사",
+          "character_level": 1470
+        }
+      ]
+    },
+    {
+      "user_name": "전사플레이어",
+      "characters": [
+        {
+          "character_name": "광전사",
+          "character_class": "전사",
+          "character_level": 1600
+        },
+        {
+          "character_name": "팔라딘",
+          "character_class": "전사",
+          "character_level": 1550
+        },
+        {
+          "character_name": "철갑전사",
+          "character_class": "전사",
+          "character_level": 1530
+        },
+        {
+          "character_name": "대검전사",
+          "character_class": "전사",
+          "character_level": 1570
+        },
+        {
+          "character_name": "맹렬전사",
+          "character_class": "전사",
+          "character_level": 1580
+        },
+        {
+          "character_name": "광휘의전사",
+          "character_class": "전사",
+          "character_level": 1555
+        }
+      ]
+    },
+    {
+      "user_name": "암살자플레이어",
+      "characters": [
+        {
+          "character_name": "그림자사냥꾼",
+          "character_class": "암살자",
+          "character_level": 1505
+        },
+        {
+          "character_name": "사신",
+          "character_class": "암살자",
+          "character_level": 1520
+        },
+        {
+          "character_name": "숨겨진사냥꾼",
+          "character_class": "암살자",
+          "character_level": 1510
+        },
+        {
+          "character_name": "어둠의사신",
+          "character_class": "암살자",
+          "character_level": 1515
+        },
+        {
+          "character_name": "칼날의사신",
+          "character_class": "암살자",
+          "character_level": 1508
+        },
+        {
+          "character_name": "그림자의검",
+          "character_class": "암살자",
+          "character_level": 1525
+        }
+      ]
+    },
+    {
+      "user_name": "총기플레이어",
+      "characters": [
+        {
+          "character_name": "총검사",
+          "character_class": "총기",
+          "character_level": 1480
+        },
+        {
+          "character_name": "데드아이",
+          "character_class": "총기",
+          "character_level": 1505
+        },
+        {
+          "character_name": "저격수",
+          "character_class": "총기",
+          "character_level": 1490
+        },
+        {
+          "character_name": "하운드",
+          "character_class": "총기",
+          "character_level": 1510
+        },
+        {
+          "character_name": "폭풍의총검사",
+          "character_class": "총기",
+          "character_level": 1515
+        }
+      ]
+    },
+    {
+      "user_name": "무술가플레이어",
+      "characters": [
+        {
+          "character_name": "격투가",
+          "character_class": "무술가",
+          "character_level": 1550
+        },
+        {
+          "character_name": "무도가",
+          "character_class": "무술가",
+          "character_level": 1560
+        },
+        {
+          "character_name": "태권도",
+          "character_class": "무술가",
+          "character_level": 1545
+        },
+        {
+          "character_name": "쾌검술",
+          "character_class": "무술가",
+          "character_level": 1575
+        },
+        {
+          "character_name": "신속의무술가",
+          "character_class": "무술가",
+          "character_level": 1565
+        }
+      ]
+    },
+    {
+      "user_name": "소환사플레이어",
+      "characters": [
+        {
+          "character_name": "소환사",
+          "character_class": "소환사",
+          "character_level": 1450
+        },
+        {
+          "character_name": "정령의소환사",
+          "character_class": "소환사",
+          "character_level": 1460
+        },
+        {
+          "character_name": "야수의소환사",
+          "character_class": "소환사",
+          "character_level": 1475
+        },
+        {
+          "character_name": "자연의소환사",
+          "character_class": "소환사",
+          "character_level": 1490
+        },
+        {
+          "character_name": "정수의소환사",
+          "character_class": "소환사",
+          "character_level": 1500
+        }
+      ]
+    },
+    {
+      "user_name": "마법사플레이어",
+      "characters": [
+        {
+          "character_name": "마법사",
+          "character_class": "마법사",
+          "character_level": 1550
+        },
+        {
+          "character_name": "강력한마법사",
+          "character_class": "마법사",
+          "character_level": 1570
+        },
+        {
+          "character_name": "정령의마법사",
+          "character_class": "마법사",
+          "character_level": 1565
+        }
+      ]
+    },
+    {
+      "user_name": "파괴자플레이어",
+      "characters": [
+        {
+          "character_name": "파괴자",
+          "character_class": "전사",
+          "character_level": 1605
+        },
+        {
+          "character_name": "대지의파괴자",
+          "character_class": "전사",
+          "character_level": 1580
+        },
+        {
+          "character_name": "폭풍의파괴자",
+          "character_class": "전사",
+          "character_level": 1595
+        },
+        {
+          "character_name": "파멸의파괴자",
+          "character_class": "전사",
+          "character_level": 1600
+        },
+        {
+          "character_name": "지옥의파괴자",
+          "character_class": "전사",
+          "character_level": 1610
+        }
+      ]
+    },
+    {
+      "user_name": "바드플레이어",
+      "characters": [
+        {
+          "character_name": "바드",
+          "character_class": "바드",
+          "character_level": 1420
+        },
+        {
+          "character_name": "음악의바드",
+          "character_class": "바드",
+          "character_level": 1445
+        },
+        {
+          "character_name": "신비한바드",
+          "character_class": "바드",
+          "character_level": 1450
+        },
+        {
+          "character_name": "고요의바드",
+          "character_class": "바드",
+          "character_level": 1465
+        }
+      ]
+    }
+  ]
+  
